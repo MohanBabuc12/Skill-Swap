@@ -55,12 +55,22 @@ Frontend Setup
 
 Frontend runs on http://localhost:3000
 
-Screenshots
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(383).png)
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(386).png)
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(389).png)
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(390).png)
-![image alt](https://github.com/shivashankargouda01/First-SpringBoot-Project/blob/5a7f1367d0a4d565f24275db98d45a8ed4ee3dd1/Screenshot%20(392).png)
+## Screenshots
+
+### Application Interface
+![Login/Registration](Screenshot%20(383).png)
+
+### Dashboard
+![Dashboard View](Screenshot%20(386).png)
+
+### Skill Management
+![Skill Management](Screenshot%20(389).png)
+
+### Profile Management
+![User Profile](Screenshot%20(390).png)
+
+### Skill Search
+![Skill Search Feature](Screenshot%20(392).png)
 
 
 Happy swapping!
